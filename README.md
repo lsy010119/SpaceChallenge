@@ -1,8 +1,6 @@
 # SpaceChallenge
-$
-\begin{align*}
+$\begin{align*}
 &\text{Experiment code for Space Challenge}\\
 
 
-\end{align*}
-$
+\end{align*}$
