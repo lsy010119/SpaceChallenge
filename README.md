@@ -1,2 +1,2 @@
 # SpaceChallenge
-Experiment code for $\it Space Challenge$
+Experiment code for ${\it Space\; Challenge}$
