@@ -1,2 +1,2 @@
 # SpaceChallenge
-Space Challenge Project
+Experiment code for {\it Space Challenge}
