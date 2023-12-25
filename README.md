@@ -1,7 +1,7 @@
 # SpaceChallenge
 $
 \begin{align*}
-&\text{Experiment code for ${\it Space Challenge}$}\\
+&\text{Experiment code for Space Challenge}\\
 
 
 \end{align*}
